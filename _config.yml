@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Napierala"
+  name             : "Eduardo Napierala"
   pronouns         : # example: "she/her"  
   bio              : "ESCUELA DE TEOLOGÍA, EVANGELIZACIÓN Y CATEQUESIS MARÍA, MADRE Y MAESTRA"
   location         : "Guarenas"
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
