@@ -24,18 +24,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Napierala"
+  name             : "Eduardo Napierala"
   pronouns         : # example: "she/her"  
   bio              : "ESCUELA DE TEOLOGÍA, EVANGELIZACIÓN Y CATEQUESIS MARÍA, MADRE Y MAESTRA"
   location         : "Guarenas"
   employer         : "MARÍA, MADRE Y MAESTRA"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "eduardonapierala@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # "https://orcid.org/yourorcidurlA"
